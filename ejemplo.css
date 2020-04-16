@@ -1,0 +1,55 @@
+
+.footer .footer-content .mensaje-form{
+    color: white;
+    margin: 10px 0px;
+    margin-top: 20px;
+
+}
+
+.footer .footer-content .footer-text{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    
+    
+    
+}
+.footer .footer-content .footer-text p{
+    color:black;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 400px;
+    margin: 5px 0px;
+    
+}.footer .ejeZfooter .dos{
+    color: white;
+    margin: 10px 0px;
+    margin-top: 20px;
+}
+
+.footer .ejeZfooter .dos .footer-text2{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    
+}
+.footer .ejeZfooter .dos .footer-text2 p{
+    color:black;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 400px;
+    margin: 5px 0px;
+}
+
+
+
+
+
